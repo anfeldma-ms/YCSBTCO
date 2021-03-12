@@ -31,7 +31,7 @@ readproportion=0
 updateproportion=0
 scanproportion=0
 insertproportion=1
-#batchsize=100
+batchsize=1000
 
 requestdistribution=uniform
 
